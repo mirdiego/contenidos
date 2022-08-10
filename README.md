@@ -6,8 +6,6 @@ Los contenidos se pondrán en práctica mediante actividades (formativas o sumat
 
 La semana 0 corresponde a la primera semana de clases, en la cual no habrá una actividad de contenidos, sino que una introducción al formato del curso. La carpeta `semana 0` de todas formas contiene material de estudio que se asumirá conocido y se aplicará durante todo el curso, y específicamente se evaluará en la primera tarea del curso (`T0`), en lugar de en una actividad.
 
-La numeración de semanas que siguen, respeta el orden temporal del calendario académico, por lo que la semana 9 es saltada debido a la Semana de Receso a nivel UC, mientras que la semana 10 se dejará como repaso con actividades/contenido por definir.
-
 La siguiente tabla muestra la correspondencia de actividades y los contenidos semanales:
 
 | Actividad | Tipo      | Semana de contenido | Contenido                           |
