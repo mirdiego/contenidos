@@ -2,8 +2,8 @@
 # Custom
 # --------------------------------------------
 
-#  Ignore all local modifications on Jupyter Notebooks
-*.ipynb
+##  Ignore all local modifications on Jupyter Notebooks
+#*.ipynb
 
 # --------------------------------------------
 # Python
